@@ -1,0 +1,2 @@
+# Used by Streamlit Community Cloud and Docker: installs the package with the portal extras
+.[app]

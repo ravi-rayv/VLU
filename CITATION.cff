@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "vertical25d: vertical land-use stratification from open POIs and satellite building heights"
+version: 0.1.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - family-names: Dabbanavar
+    given-names: Ravi Satyappa
+    email: ravisd@nittesoa.ac.in
+    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+  - family-names: "N"
+    given-names: Rohini
+    email: rohini@nittesoa.ac.in
+    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+contact:
+  - family-names: Dabbanavar
+    given-names: Ravi Satyappa
+    email: ravisd@nittesoa.ac.in
+    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+keywords:
+  - urban analytics
+  - points of interest
+  - building height
+  - mixed land use
+  - OpenStreetMap
+  - Google Earth Engine
