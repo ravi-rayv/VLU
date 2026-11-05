@@ -9,15 +9,21 @@ authors:
     given-names: Ravi Satyappa
     email: ravisd@nittesoa.ac.in
     affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+
+- family-names: "Prathapchandran"
+    given-names: Nikhil
+    email: nikhilprathap@nittesoa.ac.in
+    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+
   - family-names: "N"
     given-names: Rohini
     email: rohini@nittesoa.ac.in
     affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+
 contact:
   - family-names: Dabbanavar
     given-names: Ravi Satyappa
-    email: ravisd@nittesoa.ac.in
-    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+    email: ravirayv@gmail.com, ravisd@nittesoa.ac.in
 keywords:
   - urban analytics
   - points of interest
